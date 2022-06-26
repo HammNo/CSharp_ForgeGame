@@ -47,24 +47,18 @@ namespace ICCGame
         }
         private static void LaunchGame()
         {
-            string path = "";
             switch (UIHelper.Instance.SelectedOption)
             {
                 case 0:
-                    path += "https://olivierbarbiaux.dev/memory/";
-                    Process.Start("explorer", path);
+                    Board.Instance.LaunchGame(0);
                     break;
                 case 1:
-                    path += Directory.GetCurrentDirectory();
-                    if (Directory.Exists("\\bin")) path += $"\\bin\\Debug\\net5.0";
-                    path += $"\\Games\\HeroesVsMonsters\\Prod_HeroesVsMonsters\\bin\\Debug\\net5.0\\Prod_HeroesVsMonsters.exe";
-                    Process.Start("explorer", path);
+                    Board.Instance.LaunchGame(1);
                     break;
                 case 2:
-                    path += Directory.GetCurrentDirectory();
-                    if (Directory.Exists("\\bin")) path += $"\\bin\\Debug\\net5.0";
-                    path += $"\\Games\\SuperRocket\\Rocket parcours.exe";
-                    Process.Start("explorer", path);
+                    Board.Instance.LaunchGame(2);
+                    break;
+                default:
                     break;
             }
         }
