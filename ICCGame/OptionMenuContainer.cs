@@ -79,7 +79,7 @@ namespace ICCGame
                     cont.PrintContent(arrow);
                     Console.ForegroundColor = Color.White;
                     Thread.Sleep(500);
-                    cont.Clear();
+                    if(!_endBlinking.IsCancellationRequested) cont.Clear();
                     Thread.Sleep(500);
                 });
             }

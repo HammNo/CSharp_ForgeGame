@@ -146,6 +146,14 @@ namespace ICCGame
                 _selectedOption = tab_index;
             }
         }
+        private void Reset()
+        {
+            _optionMenu_tab[_selectedOption].OptionSelect();
+            X = 0;
+            Y = 0;
+            _optionMenu_tab = new OptionMenuContainer[3];
+            _selectedOption = 0;
+        }
         private void CheckWindowSize()
         {
             int window_width = Console.WindowWidth;
@@ -159,10 +167,8 @@ namespace ICCGame
                     if (Console.WindowHeight != window_height || Console.WindowWidth != window_width)
                     {
                         run = false;
-                        _optionMenu_tab[_selectedOption].OptionSelect();
-                        Thread.Sleep(10);
-                        _instance = new UIHelper();
-                        Instance.UIInit();
+                        Reset();
+                        UIInit();
                     }
                 }
             });
