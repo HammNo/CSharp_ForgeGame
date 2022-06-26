@@ -1,0 +1,15 @@
+C:\Users\Student\Documents\Cours Pratique\CSharp\Demineur2022\DemineurICC\DemineurICC\bin\Debug\net6.0\DemineurICC.exe
+C:\Users\Student\Documents\Cours Pratique\CSharp\Demineur2022\DemineurICC\DemineurICC\bin\Debug\net6.0\DemineurICC.deps.json
+C:\Users\Student\Documents\Cours Pratique\CSharp\Demineur2022\DemineurICC\DemineurICC\bin\Debug\net6.0\DemineurICC.runtimeconfig.json
+C:\Users\Student\Documents\Cours Pratique\CSharp\Demineur2022\DemineurICC\DemineurICC\bin\Debug\net6.0\DemineurICC.dll
+C:\Users\Student\Documents\Cours Pratique\CSharp\Demineur2022\DemineurICC\DemineurICC\bin\Debug\net6.0\DemineurICC.pdb
+C:\Users\Student\Documents\Cours Pratique\CSharp\Demineur2022\DemineurICC\DemineurICC\obj\Debug\net6.0\DemineurICC.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Cours Pratique\CSharp\Demineur2022\DemineurICC\DemineurICC\obj\Debug\net6.0\DemineurICC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Cours Pratique\CSharp\Demineur2022\DemineurICC\DemineurICC\obj\Debug\net6.0\DemineurICC.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Cours Pratique\CSharp\Demineur2022\DemineurICC\DemineurICC\obj\Debug\net6.0\DemineurICC.AssemblyInfo.cs
+C:\Users\Student\Documents\Cours Pratique\CSharp\Demineur2022\DemineurICC\DemineurICC\obj\Debug\net6.0\DemineurICC.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Cours Pratique\CSharp\Demineur2022\DemineurICC\DemineurICC\obj\Debug\net6.0\DemineurICC.dll
+C:\Users\Student\Documents\Cours Pratique\CSharp\Demineur2022\DemineurICC\DemineurICC\obj\Debug\net6.0\refint\DemineurICC.dll
+C:\Users\Student\Documents\Cours Pratique\CSharp\Demineur2022\DemineurICC\DemineurICC\obj\Debug\net6.0\DemineurICC.pdb
+C:\Users\Student\Documents\Cours Pratique\CSharp\Demineur2022\DemineurICC\DemineurICC\obj\Debug\net6.0\DemineurICC.genruntimeconfig.cache
+C:\Users\Student\Documents\Cours Pratique\CSharp\Demineur2022\DemineurICC\DemineurICC\obj\Debug\net6.0\ref\DemineurICC.dll

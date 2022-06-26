@@ -1,0 +1,99 @@
+C:\Users\Student\Desktop\cours-dotnet\poo\Prod_HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.exe
+C:\Users\Student\Desktop\cours-dotnet\poo\Prod_HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.deps.json
+C:\Users\Student\Desktop\cours-dotnet\poo\Prod_HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.runtimeconfig.json
+C:\Users\Student\Desktop\cours-dotnet\poo\Prod_HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.runtimeconfig.dev.json
+C:\Users\Student\Desktop\cours-dotnet\poo\Prod_HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.dll
+C:\Users\Student\Desktop\cours-dotnet\poo\Prod_HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.pdb
+C:\Users\Student\Desktop\cours-dotnet\poo\Prod_HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\cours-dotnet\poo\Prod_HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\cours-dotnet\poo\Prod_HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\cours-dotnet\poo\Prod_HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.AssemblyInfo.cs
+C:\Users\Student\Desktop\cours-dotnet\poo\Prod_HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\cours-dotnet\poo\Prod_HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.dll
+C:\Users\Student\Desktop\cours-dotnet\poo\Prod_HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\refint\Prod_HeroesVsMonsters.dll
+C:\Users\Student\Desktop\cours-dotnet\poo\Prod_HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.pdb
+C:\Users\Student\Desktop\cours-dotnet\poo\Prod_HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.genruntimeconfig.cache
+C:\Users\Student\Desktop\cours-dotnet\poo\Prod_HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\ref\Prod_HeroesVsMonsters.dll
+C:\Users\Student\Desktop\cours-dotnet\poo\Prod_HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.Common.dll
+C:\Users\Student\Desktop\cours-dotnet\poo\Prod_HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.Common.pdb
+C:\Users\Student\Desktop\cours-dotnet\poo\Prod_HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.csproj.CopyComplete
+C:\Users\Student\Desktop\cours-dotnet\poo\Prod_HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\PowerArgs.dll
+C:\Users\Student\Desktop\cours-dotnet\poo\Prod_HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\Pastel.dll
+D:\Lymaera\Bureau\Cours dotnet\cours POO\HeroesVSMonsters\poo_prod_h_vs_m\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.exe
+D:\Lymaera\Bureau\Cours dotnet\cours POO\HeroesVSMonsters\poo_prod_h_vs_m\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.deps.json
+D:\Lymaera\Bureau\Cours dotnet\cours POO\HeroesVSMonsters\poo_prod_h_vs_m\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.runtimeconfig.json
+D:\Lymaera\Bureau\Cours dotnet\cours POO\HeroesVSMonsters\poo_prod_h_vs_m\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.runtimeconfig.dev.json
+D:\Lymaera\Bureau\Cours dotnet\cours POO\HeroesVSMonsters\poo_prod_h_vs_m\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.dll
+D:\Lymaera\Bureau\Cours dotnet\cours POO\HeroesVSMonsters\poo_prod_h_vs_m\Prod_HeroesVsMonsters\bin\Debug\net5.0\ref\Prod_HeroesVsMonsters.dll
+D:\Lymaera\Bureau\Cours dotnet\cours POO\HeroesVSMonsters\poo_prod_h_vs_m\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.pdb
+D:\Lymaera\Bureau\Cours dotnet\cours POO\HeroesVSMonsters\poo_prod_h_vs_m\Prod_HeroesVsMonsters\bin\Debug\net5.0\Pastel.dll
+D:\Lymaera\Bureau\Cours dotnet\cours POO\HeroesVSMonsters\poo_prod_h_vs_m\Prod_HeroesVsMonsters\bin\Debug\net5.0\PowerArgs.dll
+D:\Lymaera\Bureau\Cours dotnet\cours POO\HeroesVSMonsters\poo_prod_h_vs_m\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.Common.dll
+D:\Lymaera\Bureau\Cours dotnet\cours POO\HeroesVSMonsters\poo_prod_h_vs_m\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.Common.pdb
+D:\Lymaera\Bureau\Cours dotnet\cours POO\HeroesVSMonsters\poo_prod_h_vs_m\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.csproj.AssemblyReference.cache
+D:\Lymaera\Bureau\Cours dotnet\cours POO\HeroesVSMonsters\poo_prod_h_vs_m\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lymaera\Bureau\Cours dotnet\cours POO\HeroesVSMonsters\poo_prod_h_vs_m\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.AssemblyInfoInputs.cache
+D:\Lymaera\Bureau\Cours dotnet\cours POO\HeroesVSMonsters\poo_prod_h_vs_m\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.AssemblyInfo.cs
+D:\Lymaera\Bureau\Cours dotnet\cours POO\HeroesVSMonsters\poo_prod_h_vs_m\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.csproj.CoreCompileInputs.cache
+D:\Lymaera\Bureau\Cours dotnet\cours POO\HeroesVSMonsters\poo_prod_h_vs_m\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.csproj.CopyComplete
+D:\Lymaera\Bureau\Cours dotnet\cours POO\HeroesVSMonsters\poo_prod_h_vs_m\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.dll
+D:\Lymaera\Bureau\Cours dotnet\cours POO\HeroesVSMonsters\poo_prod_h_vs_m\Prod_HeroesVsMonsters\obj\Debug\net5.0\ref\Prod_HeroesVsMonsters.dll
+D:\Lymaera\Bureau\Cours dotnet\cours POO\HeroesVSMonsters\poo_prod_h_vs_m\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.pdb
+D:\Lymaera\Bureau\Cours dotnet\cours POO\HeroesVSMonsters\poo_prod_h_vs_m\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.genruntimeconfig.cache
+C:\Users\Student\Desktop\cours-dotnet\poo\poo_prod_h_vs_m\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.exe
+C:\Users\Student\Desktop\cours-dotnet\poo\poo_prod_h_vs_m\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.deps.json
+C:\Users\Student\Desktop\cours-dotnet\poo\poo_prod_h_vs_m\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.runtimeconfig.json
+C:\Users\Student\Desktop\cours-dotnet\poo\poo_prod_h_vs_m\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.runtimeconfig.dev.json
+C:\Users\Student\Desktop\cours-dotnet\poo\poo_prod_h_vs_m\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.dll
+C:\Users\Student\Desktop\cours-dotnet\poo\poo_prod_h_vs_m\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.pdb
+C:\Users\Student\Desktop\cours-dotnet\poo\poo_prod_h_vs_m\Prod_HeroesVsMonsters\bin\Debug\net5.0\Pastel.dll
+C:\Users\Student\Desktop\cours-dotnet\poo\poo_prod_h_vs_m\Prod_HeroesVsMonsters\bin\Debug\net5.0\PowerArgs.dll
+C:\Users\Student\Desktop\cours-dotnet\poo\poo_prod_h_vs_m\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\cours-dotnet\poo\poo_prod_h_vs_m\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\cours-dotnet\poo\poo_prod_h_vs_m\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\cours-dotnet\poo\poo_prod_h_vs_m\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.AssemblyInfo.cs
+C:\Users\Student\Desktop\cours-dotnet\poo\poo_prod_h_vs_m\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\cours-dotnet\poo\poo_prod_h_vs_m\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.csproj.CopyComplete
+C:\Users\Student\Desktop\cours-dotnet\poo\poo_prod_h_vs_m\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.dll
+C:\Users\Student\Desktop\cours-dotnet\poo\poo_prod_h_vs_m\Prod_HeroesVsMonsters\obj\Debug\net5.0\ref\Prod_HeroesVsMonsters.dll
+C:\Users\Student\Desktop\cours-dotnet\poo\poo_prod_h_vs_m\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.pdb
+C:\Users\Student\Desktop\cours-dotnet\poo\poo_prod_h_vs_m\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.genruntimeconfig.cache
+C:\Users\Student\Desktop\cours-dotnet\poo\poo_prod_h_vs_m\Prod_HeroesVsMonsters\obj\Debug\net5.0\refint\Prod_HeroesVsMonsters.dll
+C:\Users\Student\Desktop\Projets ICC groupe\Prod_Nathalie_HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.exe
+C:\Users\Student\Desktop\Projets ICC groupe\Prod_Nathalie_HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.deps.json
+C:\Users\Student\Desktop\Projets ICC groupe\Prod_Nathalie_HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.runtimeconfig.json
+C:\Users\Student\Desktop\Projets ICC groupe\Prod_Nathalie_HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Projets ICC groupe\Prod_Nathalie_HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.dll
+C:\Users\Student\Desktop\Projets ICC groupe\Prod_Nathalie_HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\ref\Prod_HeroesVsMonsters.dll
+C:\Users\Student\Desktop\Projets ICC groupe\Prod_Nathalie_HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.pdb
+C:\Users\Student\Desktop\Projets ICC groupe\Prod_Nathalie_HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\Pastel.dll
+C:\Users\Student\Desktop\Projets ICC groupe\Prod_Nathalie_HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\PowerArgs.dll
+C:\Users\Student\Desktop\Projets ICC groupe\Prod_Nathalie_HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Projets ICC groupe\Prod_Nathalie_HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Projets ICC groupe\Prod_Nathalie_HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Projets ICC groupe\Prod_Nathalie_HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.AssemblyInfo.cs
+C:\Users\Student\Desktop\Projets ICC groupe\Prod_Nathalie_HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Projets ICC groupe\Prod_Nathalie_HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.csproj.CopyComplete
+C:\Users\Student\Desktop\Projets ICC groupe\Prod_Nathalie_HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.dll
+C:\Users\Student\Desktop\Projets ICC groupe\Prod_Nathalie_HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\ref\Prod_HeroesVsMonsters.dll
+C:\Users\Student\Desktop\Projets ICC groupe\Prod_Nathalie_HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.pdb
+C:\Users\Student\Desktop\Projets ICC groupe\Prod_Nathalie_HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.genruntimeconfig.cache
+C:\Users\Student\source\repos\ICCGame\ICCGame\bin\Debug\net5.0\Games\HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.exe
+C:\Users\Student\source\repos\ICCGame\ICCGame\bin\Debug\net5.0\Games\HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.deps.json
+C:\Users\Student\source\repos\ICCGame\ICCGame\bin\Debug\net5.0\Games\HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.runtimeconfig.json
+C:\Users\Student\source\repos\ICCGame\ICCGame\bin\Debug\net5.0\Games\HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.runtimeconfig.dev.json
+C:\Users\Student\source\repos\ICCGame\ICCGame\bin\Debug\net5.0\Games\HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.dll
+C:\Users\Student\source\repos\ICCGame\ICCGame\bin\Debug\net5.0\Games\HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\ref\Prod_HeroesVsMonsters.dll
+C:\Users\Student\source\repos\ICCGame\ICCGame\bin\Debug\net5.0\Games\HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\Prod_HeroesVsMonsters.pdb
+C:\Users\Student\source\repos\ICCGame\ICCGame\bin\Debug\net5.0\Games\HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\Pastel.dll
+C:\Users\Student\source\repos\ICCGame\ICCGame\bin\Debug\net5.0\Games\HeroesVsMonsters\Prod_HeroesVsMonsters\bin\Debug\net5.0\PowerArgs.dll
+C:\Users\Student\source\repos\ICCGame\ICCGame\bin\Debug\net5.0\Games\HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\ICCGame\ICCGame\bin\Debug\net5.0\Games\HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\ICCGame\ICCGame\bin\Debug\net5.0\Games\HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\ICCGame\ICCGame\bin\Debug\net5.0\Games\HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.AssemblyInfo.cs
+C:\Users\Student\source\repos\ICCGame\ICCGame\bin\Debug\net5.0\Games\HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ICCGame\ICCGame\bin\Debug\net5.0\Games\HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.csproj.CopyComplete
+C:\Users\Student\source\repos\ICCGame\ICCGame\bin\Debug\net5.0\Games\HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.dll
+C:\Users\Student\source\repos\ICCGame\ICCGame\bin\Debug\net5.0\Games\HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\ref\Prod_HeroesVsMonsters.dll
+C:\Users\Student\source\repos\ICCGame\ICCGame\bin\Debug\net5.0\Games\HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.pdb
+C:\Users\Student\source\repos\ICCGame\ICCGame\bin\Debug\net5.0\Games\HeroesVsMonsters\Prod_HeroesVsMonsters\obj\Debug\net5.0\Prod_HeroesVsMonsters.genruntimeconfig.cache
