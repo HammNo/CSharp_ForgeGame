@@ -14,7 +14,6 @@ namespace ICCGame
         {
             Console.SetWindowSize(150, 40);
             Console.BackgroundColor = _bgColor;
-            Console.Clear();
             UIHelper.Instance.UIInit();
             MainMenu();
         }
@@ -22,7 +21,7 @@ namespace ICCGame
         {
             ConsoleKeyInfo info;
             bool run = true;
-            while (run)
+            while (true)
             {
                 info = Console.ReadKey(true);
                 Console.CursorVisible = false;

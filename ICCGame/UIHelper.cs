@@ -5,6 +5,7 @@ using System.Drawing;
 using Console = Colorful.Console;
 using System.Diagnostics;
 using System.IO;
+using System.Threading;
 
 namespace ICCGame
 {
@@ -51,6 +52,7 @@ namespace ICCGame
         };
         private OptionMenuContainer[] _optionMenu_tab;
         private int _selectedOption;
+        private Task _wSizeCheck = null;
         public int X { get; set; }
         public int Y { get; set; }
         public int SelectedOption
@@ -75,14 +77,17 @@ namespace ICCGame
         }
         public void UIInit()
         {
-            X = Console.WindowWidth / 2 - 60;
+            Console.Clear();
             Console.Title = "ForgeGame";
+            Y = 0;
+            X = Console.WindowWidth / 2 - 60;
             PrintOptionMenu(0);
             X += 25;
             PrintOptionMenu(1);
             PrintOptionMenu(2);
             PrintOptionMenu(3);
             OptionMenuTab[0].OptionSelect();
+            CheckWindowSize();
         }
         private void PrintTitle()
         {
@@ -140,6 +145,28 @@ namespace ICCGame
                 _optionMenu_tab[tab_index].OptionSelect();
                 _selectedOption = tab_index;
             }
+        }
+        private void CheckWindowSize()
+        {
+            int window_width = Console.WindowWidth;
+            int window_height = Console.WindowHeight;
+            _wSizeCheck = new Task(() =>
+            {
+                bool run = true;
+                while (run)
+                {
+                    Thread.Sleep(10);
+                    if (Console.WindowHeight != window_height || Console.WindowWidth != window_width)
+                    {
+                        run = false;
+                        _optionMenu_tab[_selectedOption].OptionSelect();
+                        Thread.Sleep(10);
+                        _instance = new UIHelper();
+                        Instance.UIInit();
+                    }
+                }
+            });
+            _wSizeCheck.Start();
         }
     }
 }
